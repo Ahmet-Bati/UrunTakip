@@ -18,6 +18,7 @@ namespace UrunTakip
         {
             label7.Text = "";
 
+
             string sorgu = ($"INSERT into urunler(barkod,urunadi,alisdolar,satisdolar,urunstok,alistarihi) values('{rjTextBox2.Texts}','{rjTextBox1.Texts}',{rjTextBox3.Texts.Replace(',', '.')},{rjTextBox4.Texts.Replace(',', '.')},{rjTextBox5.Texts},'{dateTimePicker1.Value.ToString()}')");
 
 

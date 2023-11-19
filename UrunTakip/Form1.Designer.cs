@@ -80,11 +80,11 @@ namespace UrunTakip
             this.rjDatePicker1.BorderColor = System.Drawing.Color.PaleVioletRed;
             this.rjDatePicker1.BorderSize = 0;
             this.rjDatePicker1.Font = new System.Drawing.Font("Arial Narrow", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.rjDatePicker1.Location = new System.Drawing.Point(103, 5);
-            this.rjDatePicker1.Margin = new System.Windows.Forms.Padding(2);
+            this.rjDatePicker1.Location = new System.Drawing.Point(137, 6);
+            this.rjDatePicker1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rjDatePicker1.MinimumSize = new System.Drawing.Size(4, 35);
             this.rjDatePicker1.Name = "rjDatePicker1";
-            this.rjDatePicker1.Size = new System.Drawing.Size(166, 35);
+            this.rjDatePicker1.Size = new System.Drawing.Size(220, 35);
             this.rjDatePicker1.SkinColor = System.Drawing.Color.MediumSlateBlue;
             this.rjDatePicker1.TabIndex = 2;
             this.rjDatePicker1.TextColor = System.Drawing.Color.White;
@@ -97,10 +97,10 @@ namespace UrunTakip
             this.panel1.Controls.Add(this.rjButton2);
             this.panel1.Controls.Add(this.textBox1);
             this.panel1.Controls.Add(this.rjButton1);
-            this.panel1.Location = new System.Drawing.Point(202, 20);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2);
+            this.panel1.Location = new System.Drawing.Point(269, 25);
+            this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(388, 157);
+            this.panel1.Size = new System.Drawing.Size(517, 193);
             this.panel1.TabIndex = 3;
             // 
             // rjButton2
@@ -114,10 +114,10 @@ namespace UrunTakip
             this.rjButton2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.rjButton2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.rjButton2.ForeColor = System.Drawing.Color.White;
-            this.rjButton2.Location = new System.Drawing.Point(218, 88);
-            this.rjButton2.Margin = new System.Windows.Forms.Padding(2);
+            this.rjButton2.Location = new System.Drawing.Point(291, 108);
+            this.rjButton2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rjButton2.Name = "rjButton2";
-            this.rjButton2.Size = new System.Drawing.Size(142, 40);
+            this.rjButton2.Size = new System.Drawing.Size(189, 49);
             this.rjButton2.TabIndex = 4;
             this.rjButton2.Text = "Barkod Ara";
             this.rjButton2.TextColor = System.Drawing.Color.White;
@@ -127,11 +127,11 @@ namespace UrunTakip
             // textBox1
             // 
             this.textBox1.Font = new System.Drawing.Font("Arial Narrow", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.textBox1.Location = new System.Drawing.Point(31, 41);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(2);
+            this.textBox1.Location = new System.Drawing.Point(41, 50);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(330, 29);
+            this.textBox1.Size = new System.Drawing.Size(439, 35);
             this.textBox1.TabIndex = 3;
             this.textBox1.WordWrap = false;
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
@@ -149,10 +149,10 @@ namespace UrunTakip
             this.rjButton1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.rjButton1.Font = new System.Drawing.Font("Arial", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.rjButton1.ForeColor = System.Drawing.Color.White;
-            this.rjButton1.Location = new System.Drawing.Point(31, 88);
-            this.rjButton1.Margin = new System.Windows.Forms.Padding(2);
+            this.rjButton1.Location = new System.Drawing.Point(41, 108);
+            this.rjButton1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rjButton1.Name = "rjButton1";
-            this.rjButton1.Size = new System.Drawing.Size(145, 39);
+            this.rjButton1.Size = new System.Drawing.Size(193, 48);
             this.rjButton1.TabIndex = 1;
             this.rjButton1.Text = "Ürün Ara";
             this.rjButton1.TextColor = System.Drawing.Color.White;
@@ -180,10 +180,10 @@ namespace UrunTakip
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(202, 204);
-            this.button1.Margin = new System.Windows.Forms.Padding(2);
+            this.button1.Location = new System.Drawing.Point(269, 251);
+            this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(176, 35);
+            this.button1.Size = new System.Drawing.Size(235, 43);
             this.button1.TabIndex = 5;
             this.button1.Text = "Ürün Ekle";
             this.button1.TextColor = System.Drawing.Color.White;
@@ -201,10 +201,10 @@ namespace UrunTakip
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.button2.ForeColor = System.Drawing.Color.White;
-            this.button2.Location = new System.Drawing.Point(420, 204);
-            this.button2.Margin = new System.Windows.Forms.Padding(2);
+            this.button2.Location = new System.Drawing.Point(560, 251);
+            this.button2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(169, 35);
+            this.button2.Size = new System.Drawing.Size(225, 43);
             this.button2.TabIndex = 5;
             this.button2.Text = "Ürün Düzelt";
             this.button2.TextColor = System.Drawing.Color.White;
@@ -222,10 +222,10 @@ namespace UrunTakip
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.button3.ForeColor = System.Drawing.Color.White;
-            this.button3.Location = new System.Drawing.Point(420, 276);
-            this.button3.Margin = new System.Windows.Forms.Padding(2);
+            this.button3.Location = new System.Drawing.Point(560, 340);
+            this.button3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(169, 35);
+            this.button3.Size = new System.Drawing.Size(225, 43);
             this.button3.TabIndex = 5;
             this.button3.Text = "Ürün Sil";
             this.button3.TextColor = System.Drawing.Color.White;
@@ -243,10 +243,10 @@ namespace UrunTakip
             this.rjButton5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.rjButton5.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.rjButton5.ForeColor = System.Drawing.Color.White;
-            this.rjButton5.Location = new System.Drawing.Point(202, 276);
-            this.rjButton5.Margin = new System.Windows.Forms.Padding(2);
+            this.rjButton5.Location = new System.Drawing.Point(269, 340);
+            this.rjButton5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rjButton5.Name = "rjButton5";
-            this.rjButton5.Size = new System.Drawing.Size(176, 35);
+            this.rjButton5.Size = new System.Drawing.Size(235, 43);
             this.rjButton5.TabIndex = 5;
             this.rjButton5.Text = "Satılan Ürünler";
             this.rjButton5.TextColor = System.Drawing.Color.White;
@@ -258,20 +258,18 @@ namespace UrunTakip
             this.lblDolar.AutoSize = true;
             this.lblDolar.Font = new System.Drawing.Font("Arial Black", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.lblDolar.ForeColor = System.Drawing.Color.OrangeRed;
-            this.lblDolar.Location = new System.Drawing.Point(396, 11);
-            this.lblDolar.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblDolar.Location = new System.Drawing.Point(528, 14);
             this.lblDolar.Name = "lblDolar";
-            this.lblDolar.Size = new System.Drawing.Size(0, 22);
+            this.lblDolar.Size = new System.Drawing.Size(0, 26);
             this.lblDolar.TabIndex = 6;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label1.Location = new System.Drawing.Point(291, 15);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Location = new System.Drawing.Point(388, 18);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(98, 16);
+            this.label1.Size = new System.Drawing.Size(116, 19);
             this.label1.TabIndex = 6;
             this.label1.Text = "Dolar  Kuru  :";
             // 
@@ -279,10 +277,9 @@ namespace UrunTakip
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label4.Location = new System.Drawing.Point(8, 280);
-            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label4.Location = new System.Drawing.Point(11, 345);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(90, 16);
+            this.label4.Size = new System.Drawing.Size(106, 19);
             this.label4.TabIndex = 6;
             this.label4.Text = "Ürün Fiyatı :";
             // 
@@ -290,10 +287,9 @@ namespace UrunTakip
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label5.Location = new System.Drawing.Point(100, 280);
-            this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label5.Location = new System.Drawing.Point(133, 345);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(0, 16);
+            this.label5.Size = new System.Drawing.Size(0, 19);
             this.label5.TabIndex = 6;
             // 
             // dgvUrun
@@ -316,14 +312,14 @@ namespace UrunTakip
             this.satisdolar,
             this.urunstok,
             this.alistarihi});
-            this.dgvUrun.Location = new System.Drawing.Point(9, 348);
-            this.dgvUrun.Margin = new System.Windows.Forms.Padding(2);
+            this.dgvUrun.Location = new System.Drawing.Point(12, 428);
+            this.dgvUrun.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.dgvUrun.Name = "dgvUrun";
             this.dgvUrun.RowHeadersVisible = false;
             this.dgvUrun.RowHeadersWidth = 51;
             this.dgvUrun.RowTemplate.Height = 24;
             this.dgvUrun.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvUrun.Size = new System.Drawing.Size(1089, 283);
+            this.dgvUrun.Size = new System.Drawing.Size(1452, 348);
             this.dgvUrun.TabIndex = 7;
             this.dgvUrun.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvUrun_CellClick);
             // 
@@ -391,20 +387,19 @@ namespace UrunTakip
             this.panel2.Controls.Add(this.label4);
             this.panel2.Controls.Add(this.label5);
             this.panel2.Controls.Add(this.label2);
-            this.panel2.Location = new System.Drawing.Point(610, 20);
-            this.panel2.Margin = new System.Windows.Forms.Padding(2);
+            this.panel2.Location = new System.Drawing.Point(813, 25);
+            this.panel2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(491, 312);
+            this.panel2.Size = new System.Drawing.Size(654, 384);
             this.panel2.TabIndex = 10;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label3.Location = new System.Drawing.Point(184, 280);
-            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label3.Location = new System.Drawing.Point(245, 345);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(111, 16);
+            this.label3.Size = new System.Drawing.Size(132, 19);
             this.label3.TabIndex = 12;
             this.label3.Text = "Toplam Tutar  : ";
             // 
@@ -412,10 +407,9 @@ namespace UrunTakip
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label6.Location = new System.Drawing.Point(298, 280);
-            this.label6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label6.Location = new System.Drawing.Point(397, 345);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(0, 16);
+            this.label6.Size = new System.Drawing.Size(0, 19);
             this.label6.TabIndex = 13;
             // 
             // btnRemoveToCart
@@ -429,10 +423,10 @@ namespace UrunTakip
             this.btnRemoveToCart.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnRemoveToCart.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnRemoveToCart.ForeColor = System.Drawing.Color.White;
-            this.btnRemoveToCart.Location = new System.Drawing.Point(274, 225);
-            this.btnRemoveToCart.Margin = new System.Windows.Forms.Padding(2);
+            this.btnRemoveToCart.Location = new System.Drawing.Point(365, 277);
+            this.btnRemoveToCart.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnRemoveToCart.Name = "btnRemoveToCart";
-            this.btnRemoveToCart.Size = new System.Drawing.Size(182, 35);
+            this.btnRemoveToCart.Size = new System.Drawing.Size(243, 43);
             this.btnRemoveToCart.TabIndex = 11;
             this.btnRemoveToCart.Text = "Sepetten Çıkar";
             this.btnRemoveToCart.TextColor = System.Drawing.Color.White;
@@ -450,10 +444,10 @@ namespace UrunTakip
             this.rjButton6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.rjButton6.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.rjButton6.ForeColor = System.Drawing.Color.White;
-            this.rjButton6.Location = new System.Drawing.Point(20, 225);
-            this.rjButton6.Margin = new System.Windows.Forms.Padding(2);
+            this.rjButton6.Location = new System.Drawing.Point(27, 277);
+            this.rjButton6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rjButton6.Name = "rjButton6";
-            this.rjButton6.Size = new System.Drawing.Size(182, 35);
+            this.rjButton6.Size = new System.Drawing.Size(243, 43);
             this.rjButton6.TabIndex = 10;
             this.rjButton6.Text = "Ürünü Sat";
             this.rjButton6.TextColor = System.Drawing.Color.White;
@@ -471,14 +465,14 @@ namespace UrunTakip
             this.urunadi1,
             this.alisdolar1,
             this.satisdolar1});
-            this.dataGridView1.Location = new System.Drawing.Point(3, 45);
-            this.dataGridView1.Margin = new System.Windows.Forms.Padding(2);
+            this.dataGridView1.Location = new System.Drawing.Point(4, 55);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersVisible = false;
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dataGridView1.Size = new System.Drawing.Size(482, 171);
+            this.dataGridView1.Size = new System.Drawing.Size(643, 210);
             this.dataGridView1.TabIndex = 9;
             // 
             // urunid1
@@ -515,10 +509,9 @@ namespace UrunTakip
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Arial Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label2.Location = new System.Drawing.Point(24, 10);
-            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label2.Location = new System.Drawing.Point(32, 12);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(62, 23);
+            this.label2.Size = new System.Drawing.Size(74, 28);
             this.label2.TabIndex = 0;
             this.label2.Text = "Sepet";
             // 
@@ -526,22 +519,22 @@ namespace UrunTakip
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.Image = global::UrunTakip.Properties.Resources.zyro_image;
-            this.pictureBox1.Location = new System.Drawing.Point(7, 9);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
+            this.pictureBox1.Location = new System.Drawing.Point(9, 11);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(190, 323);
+            this.pictureBox1.Size = new System.Drawing.Size(245, 398);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 11;
             this.pictureBox1.TabStop = false;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(187)))), ((int)(((byte)(222)))), ((int)(((byte)(255)))));
             this.BackgroundImage = global::UrunTakip.Properties.Resources.codioful_formerly_gradienta_J6LMHbdW1k8_unsplash;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1110, 651);
+            this.ClientSize = new System.Drawing.Size(1480, 801);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.dgvUrun);
@@ -552,7 +545,7 @@ namespace UrunTakip
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
